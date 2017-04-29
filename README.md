@@ -1,2 +1,2 @@
 # Proyecto
-Progra sin proyecto :'v
+Bot para Facebook Messenger.Escrito con JavaScript.
